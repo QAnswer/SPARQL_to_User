@@ -45,7 +45,7 @@ GET or POST with parameters:
 
 example: 
 
-    curl --data-urlencode "sparql=SELECT DISTINCT ?x WHERE {   <http://www.wikidata.org/entity/Q20034> <http://www.wikidata.org/prop/direct/P527> ?x . } limit 1000" --data-urlencode "lang=en" --data-urlencode "kb=wikidata" https://wdaqua-sparqltouser.univ-st-etienne.fr/sparqltouser
+    curl --data-urlencode "sparql=SELECT DISTINCT ?x WHERE {   <http://www.wikidata.org/entity/Q20034> <http://www.wikidata.org/prop/direct/P527> ?x . } limit 1000" --data-urlencode "lang=en" --data-urlencode "kb=wikidata" https://qanswer-sparqltouser.univ-st-etienne.fr/sparqltouser
 
 returns:
 
