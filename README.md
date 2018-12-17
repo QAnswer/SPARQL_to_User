@@ -35,7 +35,7 @@ Tu run the package do:
     java -jar target/SparqlToUser-0.1.jar
 
 The service will then be available under localhost:1920/sparqltouser. Or check out our online available webservice at:
-https://wdaqua-sparqltouser.univ-st-etienne.fr/sparqltouser
+https://qanswer-sparqltouser.univ-st-etienne.fr/sparqltouser
 
 ## API
 GET or POST with parameters:
