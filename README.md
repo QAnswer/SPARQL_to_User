@@ -1,5 +1,11 @@
 ## SPARQLtoUser
 
+## Demo
+
+The SparqltoUser Service is integrated in QAnswer and can be accessed here:
+
+https://qanswer.eu/qa
+
 ### Intro
 SPARQLtoUser is a web service that translates a SPARQL query into a representation that is thought for end users. For example the SPARQL query over wikidata:
 
